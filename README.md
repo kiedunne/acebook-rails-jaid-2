@@ -1,7 +1,6 @@
 # AceBook - JAID
 
 ## Members
-
 - [Asad Khan](https://github.com/AsadK47)
 - [Darryl Banks](https://github.com/zombie9)
 - [Ijeoma Nelson](https://github.com/githubsttar)
@@ -28,11 +27,6 @@ First, clone this repository. Then:
 > bundle exec rspec # Run the tests to ensure it works
 > bin/rails server # Start the server at localhost:3000
 ```
+## Class Diagram
 
-## Diagrams
-
-![](assets/README-3814a64d.jpg)
-
-![](assets/README-4c144c6b.jpg)
-
-![](assets/README-f82fa3f2.jpg)
+![Screenshot](class_diagram.png)
