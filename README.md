@@ -29,4 +29,8 @@ First, clone this repository. Then:
 ```
 ## Class Diagram
 
-![Screenshot](class_diagram.png)
+![](assets/README-3814a64d.jpg)
+
+![](assets/README-4c144c6b.jpg)
+
+![](assets/README-f82fa3f2.jpg)
